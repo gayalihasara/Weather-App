@@ -1,10 +1,6 @@
 {
   "name": "reactweather",
   "version": "0.1.0",
-  "engines": {
-    "node": "18.16.0",
-    "npm": "9.5.1"
-  },
   "private": true,
   "dependencies": {
     "@mui/lab": "^5.0.0-alpha.64",
@@ -37,6 +33,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "18.16.0",
+    "npm": "9.5.1"
   },
   "eslintConfig": {
     "extends": "react-app"
