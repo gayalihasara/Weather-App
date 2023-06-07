@@ -1,6 +1,9 @@
 {
   "name": "reactweather",
   "version": "0.1.0",
+  "engines": {
+    "node": "18.16.0"
+  },
   "private": true,
   "dependencies": {
     "@mui/lab": "^5.0.0-alpha.64",
