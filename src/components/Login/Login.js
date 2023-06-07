@@ -26,7 +26,7 @@ function Login() {
 
   const handleSubmit = async (values) => {
    
-    if("gayali@gmail.com" === values.email && "1234" === values.password)
+    if("gayali@gmail.com" === values.email && "Admin@123" === values.password)
     {
       navigate("/home");
     }
